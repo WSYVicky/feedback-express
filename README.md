@@ -1,12 +1,12 @@
-# feedback-express
+# 留言本（express搭建的服务器）
 ## 技术栈
 
 - node
-- express
-- express-art-tempalte
-- art-template
-- nodemon
-- body-parser
+- express——框架
+- express-art-tempalte——框架模版
+- art-template——模版
+- nodemon——解决重启服务器的麻烦
+- body-parser——获取post请求内容
 
 ## 实现功能
 
@@ -15,5 +15,15 @@
 
 ## 项目结构
 
-![](项目结构.png)
+![](./项目结构.png)
+
+## 项目截图
+
+   - ### 首页
+![](./首页.png)
+   - ### 评论页
+![](./评论页.png)
+   - ### 评论后的首页
+![](./评论后的首页.png)  
+
 
